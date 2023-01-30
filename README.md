@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **Shubhamjainpvt28@gmail.com**
 
